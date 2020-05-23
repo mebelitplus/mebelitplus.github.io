@@ -1,0 +1,114 @@
+#block_container > div{
+    display: inline-block;
+    vertical-align: middle;
+}
+#logo{
+    float:left;
+    width:20%;
+    height:200px;
+    margin-left: 40px;
+}
+#phones{
+    float:right;
+    width:70%;
+    height:180px;
+    font-family: 'Play', sans-serif;
+}
+#phones_two{
+    float:left;
+    height:200px;
+    font-family: 'Play', sans-serif;
+}
+#kitchen{
+    clear:both;
+    float:right;
+    width:100%;
+}
+#cabinet{
+    clear:both;
+    float:right;
+    width:100%;
+}
+#living-room{
+    clear:both;
+    float:right;
+    width:100%;
+}
+#office{
+    clear:both;
+    float:right;
+    width:100%;
+}
+#gallery{
+    clear:both;
+    width:100%;
+    padding:0;
+    margin:0;
+}
+#gallery_table{
+    float:left;
+    width:100%;
+}
+#contacts{
+    clear:both;
+}
+#nav{
+    clear:both;
+    margin-left: 40px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 40px;
+}
+h1{
+    font-family: 'Play', sans-serif;
+    padding: 10px;
+    font-size: 80px;
+}
+h2{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 70px;
+    margin-bottom: 0;
+    margin-left: 40px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    margin-right: 40px;
+}
+button{
+    border: none;
+    font-size: 35px;
+    border-radius: 20px;
+    background-color: #c3dadb;
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding:5px;
+    margin:5px;
+    margin-left:0px;
+    width:40%;
+}
+table{
+    float:right;
+}
+th{
+    font-family: 'Play', sans-serif;
+    font-size: 15px;
+}
+p{
+    margin-bottom: 0px;
+    padding:15px;
+    background-color: white;
+    clear:both;
+    font-family: 'Play', sans-serif;
+    font-size: 20px;
+}
+a:link{
+    color:black;
+    text-decoration: none;
+}
+a:visited{
+    color:black;
+    text-decoration: none;
+}
+footer{
+    font-family: 'Play', sans-serif;
+    font-size: 20px;
+}
